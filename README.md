@@ -31,8 +31,8 @@ Dengan adanya aplikasi ini, masyarakat atau developer bisa dengan mudah mempredi
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/username/prediksi-harga-rumah.git
-cd prediksi-harga-rumah
+git https://github.com/iqblmlnf/FP_BDPA2025.git
+cd FP_BDPA2025
 ```
 
 ### 2️⃣ Install Library yang Dibutuhkan
